@@ -2,13 +2,6 @@
 
 Este projeto implementa e compara quatro algoritmos de busca (BFS, DFS, A*, e Greedy) para encontrar caminhos em um labirinto gerado aleatoriamente. Ele mede o desempenho dos algoritmos em termos de tempo de execução, consumo de memória, completude e optimalidade. Além disso, gera gráficos para visualização dos resultados.
 
-## Índice
-
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Resultados](#resultados)
-- [Autor](#autor)
-
 ## Instalação
 
 Para rodar este projeto, você precisa ter o Python 3.x instalado. Você também deve instalar as bibliotecas necessárias. Você pode fazer isso usando o `pip`:
