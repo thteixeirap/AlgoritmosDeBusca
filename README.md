@@ -27,5 +27,5 @@ python3 main.py
 ## Autores
 
 - **Thomás T. Pereira**
-- **Ygor S. Viera** - [Perfil GitHub](https://github.com/ygor-viera)
+- **Ygor S. Viera** - [Perfil GitHub](https://github.com/eplaie)
 
