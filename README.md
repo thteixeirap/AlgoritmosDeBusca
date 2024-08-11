@@ -19,7 +19,7 @@ python3 main.py
 ## Saída Esperada
 
 - **Labirinto**: O labirinto gerado será impresso no console.
-- **Arquivos de Texto**: Arquivos contendo os passos intermediários de cada algoritmo serão criados no diretório atual, com nomes como `BFS_passos.txt`, `DFS_passos.txt`, etc.
+- **Arquivos de Texto**: Arquivos contendo os passos intermediários de cada algoritmo serão criados no diretório atual, com nomes como `BFS_passos.txt`, `DFS_passos.txt`,`A*_passos.txt` e `Greedy_passos.txt`
 - **Gráficos**: Gráficos comparando o tempo de execução, consumo de memória, completude e optimalidade dos algoritmos serão exibidos em uma janela de plotagem.
 
 
