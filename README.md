@@ -13,7 +13,7 @@ pip install numpy matplotlib psutil
 ### Execute 
 Execute o script Python com o comando abaixo. Isso gerará o labirinto, executará os algoritmos de busca e exibirá os gráficos comparativos:
 ```bash
-python main.py
+python3 main.py
 ```
 
 ## Saída Esperada
